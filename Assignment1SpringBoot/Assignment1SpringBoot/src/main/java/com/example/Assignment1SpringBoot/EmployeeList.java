@@ -19,6 +19,8 @@ public class EmployeeList {
 		employeeList.add(new Employee(369, "Lena", " Trainee", 25000 ));
 		employeeList.add(new Employee(482, "Mathan", "Scrum Master", 45000 ));
 		employeeList.add(new Employee(515, "Kathir", "Quality Checker", 30000 ));
+		employeeList.add(new Employee(611, "Haasini", "Project Leader", 40000 ));
+		employeeList.add(new Employee(712, "Nandhana", "Chief Engineer", 350000 ));
 	}
 	
 
