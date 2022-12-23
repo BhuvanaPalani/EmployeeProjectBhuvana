@@ -15,7 +15,10 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @RequestMapping
 public class EmployeeController {
 	
+<<<<<<< Updated upstream
 	
+=======
+>>>>>>> Stashed changes
 	
 	
 	@Autowired
